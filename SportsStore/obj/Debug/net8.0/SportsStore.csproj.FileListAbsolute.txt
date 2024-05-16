@@ -268,3 +268,4 @@ C:\Users\USER\Desktop\SportsStore-ALCARMEN-04671\SportsStore\obj\Debug\net8.0\re
 C:\Users\USER\Desktop\SportsStore-ALCARMEN-04671\SportsStore\obj\Debug\net8.0\SportsStore.pdb
 C:\Users\USER\Desktop\SportsStore-ALCARMEN-04671\SportsStore\obj\Debug\net8.0\SportsStore.genruntimeconfig.cache
 C:\Users\USER\Desktop\SportsStore-ALCARMEN-04671\SportsStore\obj\Debug\net8.0\ref\SportsStore.dll
+C:\Users\USER\Desktop\SportsStore-ALCARMEN-04671\SportsStore\obj\Debug\net8.0\SportsStore.sourcelink.json
