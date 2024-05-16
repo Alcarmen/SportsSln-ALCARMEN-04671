@@ -1,0 +1,597 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|c:\\users\\user\\desktop\\sportsstore-alcarmen-04671\\sportsstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|c:\\users\\user\\desktop\\sportsstore-alcarmen-04671\\sportsstore\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|c:\\users\\user\\desktop\\sportsstore-alcarmen-04671\\sportsstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|c:\\users\\user\\desktop\\sportsstore-alcarmen-04671\\sportsstore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|c:\\users\\user\\desktop\\sportsstore-alcarmen-04671\\sportsstore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|c:\\users\\user\\desktop\\sportsstore-alcarmen-04671\\sportsstore\\views\\shared\\productsummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\views\\shared\\productsummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|c:\\users\\user\\desktop\\sportsstore-alcarmen-04671\\sportsstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|c:\\users\\user\\desktop\\sportsstore-alcarmen-04671\\sportsstore\\views\\shared\\components\\navigationmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\views\\shared\\components\\navigationmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|c:\\users\\user\\desktop\\sportsstore-alcarmen-04671\\sportsstore\\views\\shared\\components\\cartsummary\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\views\\shared\\components\\cartsummary\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|c:\\users\\user\\desktop\\sportsstore-alcarmen-04671\\sportsstore\\views\\order\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\views\\order\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|c:\\users\\user\\desktop\\sportsstore-alcarmen-04671\\sportsstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|c:\\users\\user\\desktop\\sportsstore-alcarmen-04671\\sportsstore\\pages\\completed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\pages\\completed.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|c:\\users\\user\\desktop\\sportsstore-alcarmen-04671\\sportsstore\\pages\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\pages\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|c:\\users\\user\\desktop\\sportsstore-alcarmen-04671\\sportsstore\\pages\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\pages\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|c:\\users\\user\\desktop\\sportsstore-alcarmen-04671\\sportsstore\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|c:\\users\\user\\desktop\\sportsstore-alcarmen-04671\\sportsstore\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|c:\\users\\user\\desktop\\sportsstore-alcarmen-04671\\sportsstore\\pages\\_cartlayout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\pages\\_cartlayout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|c:\\users\\user\\desktop\\sportsstore-alcarmen-04671\\sportsstore\\pages\\_cartlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\pages\\_cartlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|c:\\users\\user\\desktop\\sportsstore-alcarmen-04671\\sportsstore\\models\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\models\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|c:\\users\\user\\desktop\\sportsstore-alcarmen-04671\\sportsstore\\models\\sessioncart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\models\\sessioncart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|c:\\users\\user\\desktop\\sportsstore-alcarmen-04671\\sportsstore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|c:\\users\\user\\desktop\\sportsstore-alcarmen-04671\\sportsstore\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|c:\\users\\user\\desktop\\sportsstore-alcarmen-04671\\sportsstore\\models\\istorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\models\\istorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|c:\\users\\user\\desktop\\sportsstore-alcarmen-04671\\sportsstore\\models\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\models\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|c:\\users\\user\\desktop\\sportsstore-alcarmen-04671\\sportsstore\\models\\efstorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\models\\efstorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|c:\\users\\user\\desktop\\sportsstore-alcarmen-04671\\sportsstore\\models\\eforderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\models\\eforderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|c:\\users\\user\\desktop\\sportsstore-alcarmen-04671\\sportsstore\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|c:\\users\\user\\desktop\\sportsstore-alcarmen-04671\\sportsstore\\models\\viewmodels\\productslistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\models\\viewmodels\\productslistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|c:\\users\\user\\desktop\\sportsstore-alcarmen-04671\\sportsstore\\models\\viewmodels\\paginginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\models\\viewmodels\\paginginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|c:\\users\\user\\desktop\\sportsstore-alcarmen-04671\\sportsstore\\infrastructure\\urlextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\infrastructure\\urlextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|c:\\users\\user\\desktop\\sportsstore-alcarmen-04671\\sportsstore\\infrastructure\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\infrastructure\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|c:\\users\\user\\desktop\\sportsstore-alcarmen-04671\\sportsstore\\infrastructure\\pagelinktaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\infrastructure\\pagelinktaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|c:\\users\\user\\desktop\\sportsstore-alcarmen-04671\\sportsstore\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|c:\\users\\user\\desktop\\sportsstore-alcarmen-04671\\sportsstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|c:\\users\\user\\desktop\\sportsstore-alcarmen-04671\\sportsstore\\components\\navigationmenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\components\\navigationmenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|c:\\users\\user\\desktop\\sportsstore-alcarmen-04671\\sportsstore\\components\\cartsummaryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D84E71-A234-4B7F-A9D1-0056D71750E8}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\components\\cartsummaryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\appsettings.json",
+              "RelativeDocumentMoniker": "SportsStore\\appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\appsettings.json",
+              "RelativeToolTip": "SportsStore\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-16T10:43:20.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Program.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Program.cs",
+              "RelativeToolTip": "SportsStore\\Program.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAmwCQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:41:39.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SportsStore\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SportsStore\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T10:41:21.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SportsStore\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SportsStore\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T10:41:16.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductSummary.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Views\\Shared\\ProductSummary.cshtml",
+              "RelativeDocumentMoniker": "SportsStore\\Views\\Shared\\ProductSummary.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Views\\Shared\\ProductSummary.cshtml",
+              "RelativeToolTip": "SportsStore\\Views\\Shared\\ProductSummary.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvyQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T10:41:10.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SportsStore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SportsStore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwB4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T10:41:01.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Views\\Shared\\Components\\NavigationMenu\\Default.cshtml",
+              "RelativeDocumentMoniker": "SportsStore\\Views\\Shared\\Components\\NavigationMenu\\Default.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Views\\Shared\\Components\\NavigationMenu\\Default.cshtml",
+              "RelativeToolTip": "SportsStore\\Views\\Shared\\Components\\NavigationMenu\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T10:40:57.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Views\\Shared\\Components\\CartSummary\\Default.cshtml",
+              "RelativeDocumentMoniker": "SportsStore\\Views\\Shared\\Components\\CartSummary\\Default.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Views\\Shared\\Components\\CartSummary\\Default.cshtml",
+              "RelativeToolTip": "SportsStore\\Views\\Shared\\Components\\CartSummary\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T10:40:51.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Views\\Order\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "SportsStore\\Views\\Order\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Views\\Order\\Checkout.cshtml",
+              "RelativeToolTip": "SportsStore\\Views\\Order\\Checkout.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwDUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T10:40:37.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SportsStore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SportsStore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T10:40:31.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Completed.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Pages\\Completed.cshtml",
+              "RelativeDocumentMoniker": "SportsStore\\Pages\\Completed.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Pages\\Completed.cshtml",
+              "RelativeToolTip": "SportsStore\\Pages\\Completed.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T10:40:15.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cart.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Pages\\Cart.cshtml.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Pages\\Cart.cshtml.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Pages\\Cart.cshtml.cs",
+              "RelativeToolTip": "SportsStore\\Pages\\Cart.cshtml.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:39:53.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Pages\\Cart.cshtml",
+              "RelativeDocumentMoniker": "SportsStore\\Pages\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Pages\\Cart.cshtml",
+              "RelativeToolTip": "SportsStore\\Pages\\Cart.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAUwDgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T10:39:44.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SportsStore\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "SportsStore\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T10:39:24.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SportsStore\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "SportsStore\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T10:39:18.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_CartLayout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Pages\\_CartLayout.cshtml.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Pages\\_CartLayout.cshtml.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Pages\\_CartLayout.cshtml.cs",
+              "RelativeToolTip": "SportsStore\\Pages\\_CartLayout.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:39:13.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_CartLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Pages\\_CartLayout.cshtml",
+              "RelativeDocumentMoniker": "SportsStore\\Pages\\_CartLayout.cshtml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Pages\\_CartLayout.cshtml",
+              "RelativeToolTip": "SportsStore\\Pages\\_CartLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T10:39:01.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StoreDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Models\\StoreDBContext.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Models\\StoreDBContext.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Models\\StoreDBContext.cs",
+              "RelativeToolTip": "SportsStore\\Models\\StoreDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:38:55.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SessionCart.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Models\\SessionCart.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Models\\SessionCart.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Models\\SessionCart.cs",
+              "RelativeToolTip": "SportsStore\\Models\\SessionCart.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA7wCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:38:45.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Models\\SeedData.cs",
+              "RelativeToolTip": "SportsStore\\Models\\SeedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:38:40.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Models\\Product.cs",
+              "RelativeToolTip": "SportsStore\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:38:35.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Models\\Order.cs",
+              "RelativeToolTip": "SportsStore\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwCEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:38:28.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IStoreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Models\\IStoreRepository.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Models\\IStoreRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Models\\IStoreRepository.cs",
+              "RelativeToolTip": "SportsStore\\Models\\IStoreRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:38:22.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Models\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Models\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Models\\IOrderRepository.cs",
+              "RelativeToolTip": "SportsStore\\Models\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:38:11.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EFOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Models\\EFOrderRepository.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Models\\EFOrderRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Models\\EFOrderRepository.cs",
+              "RelativeToolTip": "SportsStore\\Models\\EFOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:37:42.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EFStoreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Models\\EFStoreRepository.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Models\\EFStoreRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Models\\EFStoreRepository.cs",
+              "RelativeToolTip": "SportsStore\\Models\\EFStoreRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:37:06.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Models\\Cart.cs",
+              "RelativeToolTip": "SportsStore\\Models\\Cart.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAcwCcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:36:58.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductsListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Models\\ViewModels\\ProductsListViewModel.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Models\\ViewModels\\ProductsListViewModel.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Models\\ViewModels\\ProductsListViewModel.cs",
+              "RelativeToolTip": "SportsStore\\Models\\ViewModels\\ProductsListViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:36:52.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PagingInfo.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Models\\ViewModels\\PagingInfo.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Models\\ViewModels\\PagingInfo.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Models\\ViewModels\\PagingInfo.cs",
+              "RelativeToolTip": "SportsStore\\Models\\ViewModels\\PagingInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:36:41.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UrlExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Infrastructure\\UrlExtensions.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Infrastructure\\UrlExtensions.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Infrastructure\\UrlExtensions.cs",
+              "RelativeToolTip": "SportsStore\\Infrastructure\\UrlExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:36:18.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Infrastructure\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Infrastructure\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Infrastructure\\SessionExtensions.cs",
+              "RelativeToolTip": "SportsStore\\Infrastructure\\SessionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:36:12.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PageLinkTagHelper.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Infrastructure\\PageLinkTagHelper.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Infrastructure\\PageLinkTagHelper.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Infrastructure\\PageLinkTagHelper.cs",
+              "RelativeToolTip": "SportsStore\\Infrastructure\\PageLinkTagHelper.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAwwDkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:36:05.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "SportsStore\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:35:58.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SportsStore\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:35:52.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "NavigationMenuViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Components\\NavigationMenuViewComponent.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Components\\NavigationMenuViewComponent.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Components\\NavigationMenuViewComponent.cs",
+              "RelativeToolTip": "SportsStore\\Components\\NavigationMenuViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:35:45.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CartSummaryViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Components\\CartSummaryViewComponent.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Components\\CartSummaryViewComponent.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\SportsStore-ALCARMEN-04671\\SportsStore\\Components\\CartSummaryViewComponent.cs",
+              "RelativeToolTip": "SportsStore\\Components\\CartSummaryViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T10:35:34.288Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
